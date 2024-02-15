@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 I'm currently a passionate student diving deep into the captivating world of Artificial Intelligence and Machine Learning.
 [My Portfolio Website](https://sanskarmodi8.github.io) 🌐
 
+![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarmodi8&show_icons=true&hide=contribs,prs&theme=radical)
+
 **Tools and Technologies :**
 - Python 🐍,
 - Scikit-Learn 🧠,
@@ -34,4 +36,3 @@ I'm currently a passionate student diving deep into the captivating world of Art
 
 Let's innovate, learn, and grow together! 🚀✨
 
-![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarmodi8&show_icons=true&hide=contribs,prs&theme=radical)
