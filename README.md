@@ -12,12 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Banner](https://pbs.twimg.com/profile_banners/1580251992471273472/1688547811/1080x360)
+
 ### Hi there, I'm Sanskar Modi! 👋
 
 I'm currently a passionate student diving deep into the captivating world of Artificial Intelligence and Machine Learning.
-My Portfolio Website https://sanskarmodi8.github.io
+[My Portfolio Website](https://sanskarmodi8.github.io) 🌐
 
-**Languages, Libraries and Frameworks :**
+**Tools and Technologies :**
 - Python,
 - Scikit-Learn,
 - Keras and TensorFlow,
@@ -27,8 +29,8 @@ My Portfolio Website https://sanskarmodi8.github.io
 - ReactJS
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sanskar-modi/)](https://www.linkedin.com/in/sanskar-modi-ba53a2267/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/YourGitHubUsername)](https://github.com/sanskarmodi8)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/YourTwitterHandle)](https://twitter.com/sanskar_modi8)
-
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sanskarmodi8)](https://github.com/sanskarmodi8)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sanskar_modi8)](https://twitter.com/sanskar_modi8)
 
 Let's innovate, learn, and grow together! 🚀✨
+
