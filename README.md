@@ -34,3 +34,4 @@ I'm currently a passionate student diving deep into the captivating world of Art
 
 Let's innovate, learn, and grow together! 🚀✨
 
+![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarmodi8&show_icons=true&hide=contribs,prs&theme=radical)
