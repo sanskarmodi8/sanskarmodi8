@@ -29,7 +29,7 @@ I'm currently a passionate student diving deep into the captivating world of Art
 - ReactJS ⚛️
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sanskar-modi/)](https://www.linkedin.com/in/sanskar-modi-ba53a2267/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sanskarmodi8)](https://github.com/sanskarmodi8)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:sansyprog8@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sanskar_modi8)](https://twitter.com/sanskar_modi8)
 
 Let's innovate, learn, and grow together! 🚀✨
