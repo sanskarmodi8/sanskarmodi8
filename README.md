@@ -20,13 +20,13 @@ I'm currently a passionate student diving deep into the captivating world of Art
 [My Portfolio Website](https://sanskarmodi8.github.io) 🌐
 
 **Tools and Technologies :**
-- Python,
-- Scikit-Learn,
-- Keras and TensorFlow,
-- Flask,
-- FastAPI,
-- Kubeflow,
-- ReactJS
+- Python 🐍,
+- Scikit-Learn 🧠,
+- Keras and TensorFlow 🤖,
+- Flask 🌐,
+- FastAPI ⚡️,
+- Kubeflow 🚀,
+- ReactJS ⚛️
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sanskar-modi/)](https://www.linkedin.com/in/sanskar-modi-ba53a2267/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sanskarmodi8)](https://github.com/sanskarmodi8)
