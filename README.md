@@ -31,7 +31,7 @@ I'm currently a passionate student diving deep into the captivating world of Art
 
 ![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarmodi8&show_icons=true&hide=contribs,prs&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarmodi8&" alt="sanskarmodi8" /></p>
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sanskar-modi/)](https://www.linkedin.com/in/sanskar-modi-ba53a2267/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:sansyprog8@gmail.com)
