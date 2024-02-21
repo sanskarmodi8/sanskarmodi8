@@ -31,10 +31,9 @@ I'm currently a passionate student diving deep into the captivating world of Art
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sanskar_modi8)](https://twitter.com/sanskar_modi8)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-orange?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/sanskarmodi8)](https://www.kaggle.com/sanskarmodi8)
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarmodi8" alt="sanskarmodi8" /></a> </p>
-
-
+<br>
 ![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarmodi8&show_icons=true&hide=contribs,prs&theme=radical)
-
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarmodi8" alt="sanskarmodi8" /></a> </p>
 
 Let's innovate, learn, and grow together! 🚀✨
