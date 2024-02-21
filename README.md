@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 ![Banner](https://pbs.twimg.com/profile_banners/1580251992471273472/1688547811/1080x360)
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sanskarmodi8.visitor-badge&left_color=red&right_color=green) 
+
 ### Hi there, I'm Sanskar Modi! 👋
 
 I'm currently a passionate student diving deep into the captivating world of Artificial Intelligence and Machine Learning.
