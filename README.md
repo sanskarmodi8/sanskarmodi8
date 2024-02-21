@@ -33,7 +33,6 @@ I'm currently a passionate student diving deep into the captivating world of Art
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarmodi8" alt="sanskarmodi8" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskarmodi8&show_icons=true&locale=en&layout=compact" alt="sanskarmodi8" /></p>
 
 ![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarmodi8&show_icons=true&hide=contribs,prs&theme=radical)
 
