@@ -34,6 +34,6 @@ I'm currently a passionate student diving deep into the captivating world of Art
 <br>
 ![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarmodi8&show_icons=true&hide=contribs,prs&theme=radical)
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarmodi8" alt="sanskarmodi8" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma&theme=onedark/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarmodi8" alt="sanskarmodi8" /></a> </p>
 
 Let's innovate, learn, and grow together! 🚀✨
