@@ -32,7 +32,7 @@ I'm currently a passionate learner diving deep into the captivating world of Art
 [![Kaggle](https://img.shields.io/badge/-Kaggle-orange?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/sanskarmodi8)](https://www.kaggle.com/sanskarmodi8)
 <br>
 <br>
-![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarmodi8&show_icons=true&hide=contribs,prs&theme=radical)
+![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarmodi8&show_icons=true&theme=radical)
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=sanskarmodi8&theme=onedark)](https://github.com/sanskarmodi8/github-profile-trophy)
 
