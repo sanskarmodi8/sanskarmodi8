@@ -54,7 +54,8 @@ I'm currently a passionate learner diving deep into the captivating world of Art
 <br>
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmodi8&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=FFB9B9&hide_border=true)
 <br>
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=sanskarmodi8&theme=onedark&no-frame=true&row=1&column=8)](https://github.com/sanskarmodi8/github-profile-trophy)
 <br>
-
+<br>
 Let's innovate, learn, and grow together! 🚀✨
