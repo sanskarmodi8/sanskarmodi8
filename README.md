@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I'm currently a passionate learner diving deep into the captivating world of Artificial Intelligence and Machine Learning.  
 [My Portfolio Website](https://sanskarmodi8.github.io) 🌐
 <br>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -41,6 +41,7 @@ I'm currently a passionate learner diving deep into the captivating world of Art
 <a href="https://www.gradio.app/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/gradio-icon.svg" alt="gradio" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/streamlit.svg" alt="streamlit" width="40" height="40"/> </a>
 </p>
+<br>
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sanskar-modi/)](https://www.linkedin.com/in/sanskar-modi-ba53a2267/)
@@ -52,7 +53,7 @@ I'm currently a passionate learner diving deep into the captivating world of Art
 ![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarmodi8&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9)
 <br>
 <br>
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmodi8&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=FFB9B9&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmodi8&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=9B59B6&hide_border=true)
 <br>
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=sanskarmodi8&theme=onedark&no-frame=true&row=1&column=8)](https://github.com/sanskarmodi8/github-profile-trophy)
