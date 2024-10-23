@@ -1,17 +1,3 @@
-<!--
-**sanskarmodi8/sanskarmodi8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Banner](https://pbs.twimg.com/profile_banners/1580251992471273472/1688547811/1080x360)
 
 ### Hi there, I'm Sanskar Modi! 👋
@@ -20,7 +6,6 @@ Here are some ideas to get you started:
 
 I'm currently a passionate learner diving deep into the captivating world of Artificial Intelligence and Machine Learning.  
 [My Portfolio Website](https://sanskarmodi8.github.io) 🌐
-<br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -41,6 +26,12 @@ I'm currently a passionate learner diving deep into the captivating world of Art
 <a href="https://www.gradio.app/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/gradio-icon.svg" alt="gradio" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/streamlit.svg" alt="streamlit" width="40" height="40"/> </a>
 </p>
+
+![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarmodi8&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9)
+<br>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmodi8&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=9B59B6&hide_border=true)
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanskarmodi8&theme=onedark&no-frame=true&row=1&column=8)](https://github.com/sanskarmodi8/github-profile-trophy)
 <br>
 
 ### Connect with me:
@@ -48,15 +39,5 @@ I'm currently a passionate learner diving deep into the captivating world of Art
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:sansyprog8@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sanskar_modi8)](https://twitter.com/sanskar_modi8)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-orange?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/sanskarmodi8)](https://www.kaggle.com/sanskarmodi8)
-<br>
-<br>
-![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarmodi8&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9)
-<br>
-<br>
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmodi8&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=9B59B6&hide_border=true)
-<br>
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanskarmodi8&theme=onedark&no-frame=true&row=1&column=8)](https://github.com/sanskarmodi8/github-profile-trophy)
-<br>
 <br>
 Let's innovate, learn, and grow together! 🚀✨
