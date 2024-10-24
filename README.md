@@ -28,6 +28,7 @@ I'm currently a passionate learner diving deep into the captivating world of Art
 </p>
 
 ![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarmodi8&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sanskarmodi8&theme=dark&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=9B59B6&dates=C9D1D9&sideNums=9B59B6&fire=9B59B6&ring=9B59B6&stroke=FFFFFF)](https://git.io/streak-stats)
 <br>
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmodi8&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=9B59B6&hide_border=true)
 <br>
