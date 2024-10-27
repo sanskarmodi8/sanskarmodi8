@@ -3,7 +3,7 @@
 ## Hi there, I'm Sanskar Modi! 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sanskarmodi8&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarmodi8" />
+  <img src="https://komarev.com/ghpvc/?username=sanskarmodi8&label=Profile%20views&color=9B59B6&style=flat" alt="sanskarmodi8" />
 </p>
 
 I'm currently a passionate learner diving deep into the captivating world of Artificial Intelligence and Machine Learning.  
