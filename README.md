@@ -1,4 +1,4 @@
-![Banner](https://pbs.twimg.com/profile_banners/1580251992471273472/1688547811/1080x360)
+![Banner](https://pbs.twimg.com/profile_banners/1580251992471273472/1739001396/1500x500)
 
 ## Hi there, I'm Sanskar Modi! 👋
 
