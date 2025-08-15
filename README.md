@@ -3,7 +3,8 @@
 ## Hi there, I'm Sanskar Modi! 👋
 
 
-I'm currently a passionate learner diving deep into the captivating world of Artificial Intelligence and Machine Learning.  
+I'm an AI/ML Engineer, building intelligent systems that create an impact.
+
 🌐 [My Portfolio Website](https://sanskarmodi8.github.io)
 
 ---
