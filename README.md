@@ -3,7 +3,7 @@
 ## Hi there, I'm Sanskar Modi! 👋
 
 
-I'm an AI/ML Engineer, building intelligent systems and impactful solutions.
+I'm an AI/ML Engineer and a lifelong learner, building intelligent systems and impactful solutions.
 
 🌐 [My Portfolio Website](https://sanskarmodi8.github.io)
 
