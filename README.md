@@ -53,8 +53,6 @@ Deployed on Hugging Face Spaces.
 
 ## 📊 GitHub Stats & Activity
 
-![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarmodi8&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=sanskarmodi8&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmodi8&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=9B59B6&hide_border=true)
