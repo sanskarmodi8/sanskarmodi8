@@ -1,68 +1,95 @@
-![Banner](https://pbs.twimg.com/profile_banners/1580251992471273472/1739002146/1080x360)
+# Hi, I'm Sanskar Modi 👋
 
-## Hi, I’m Sanskar Modi 👋  
+AI Engineer focused on building production-grade ML systems — from agentic pipelines to deployable APIs.
 
-AI Engineer focused on building **production-grade machine learning systems** — from deep learning models to deployable APIs and evaluation pipelines.
-
-I primarily work with **PyTorch**, and my interests include **computer vision, reinforcement learning, and LLM-based systems**.
-
-🌐 **Portfolio:** https://sanskarmodi8.github.io  
+📍 Bennett University, India · Graduating May 2027  
+📧 sanskarmodi.dev@gmail.com  
+🌐 [Portfolio](https://sanskarmodi8.github.io) · [LinkedIn](https://www.linkedin.com/in/sanskar-modi-ba53a2267) · [Kaggle](https://www.kaggle.com/sanskarmodi8)
 
 ---
 
-## 🚀 Selected Projects
+## Production Projects
 
-### 🔹 AtlasRAG — Production RAG System  
-Hybrid retrieval system combining dense embeddings, BM25, and graph-based concept expansion.  
-FastAPI backend with document ingestion, citation-aware responses, and retrieval evaluation.  
-👉 https://github.com/sanskarmodi8/Atlas-RAG  
+### Leave Policy AI Agent — Live Production Agent
+**Google ADK + ReAct · Google Cloud Run · FastAPI · Snowflake**
 
----
+Two-path hybrid architecture: deterministic fast-path handles ~70% of queries at sub-100ms with zero LLM cost. Agentic path for complex multi-turn reasoning. PII detection/redaction, prompt sanitization, circuit breaker with automatic fallback, 80%+ test coverage across unit + integration + security attack tests.
 
-### 🔹 MarketMind — Reinforcement Learning Trading System  
-PPO-based Bitcoin trading agent achieving **204% return** vs 124% buy-and-hold baseline.  
-MLflow + DVC used for experiment tracking and reproducibility.  
-👉 https://github.com/sanskarmodi8/MarketMind  
-
----
-
-### 🔹 Brain Tumor Segmentation — Medical Computer Vision  
-Multi-modal MRI segmentation pipeline using Swin UNETR (PyTorch, MONAI).  
-Includes reproducible training, evaluation, and 3D visualization.  
-👉 https://github.com/sanskarmodi8/brain_tumor_segmentation  
+**[→ Hit the live API](https://leave-policy-agent-641772618787.us-central1.run.app/docs)** · [Code](https://github.com/sanskarmodi8/leave-policy-agent)
+```bash
+curl -X POST https://leave-policy-agent-641772618787.us-central1.run.app/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "What is my leave balance?", "session_id": "demo", "employee_id": "E001"}'
+```
 
 ---
 
-### 🔹 DeepDetect — Deepfake Detection  
-Video-based deepfake detection system with visual explainability.  
-Deployed on Hugging Face Spaces.  
-👉 https://github.com/sanskarmodi8/DeepDetect  
+### AtlasRAG — Hybrid RAG with Knowledge Graph
+**FastAPI · Qdrant · LangChain · Next.js · Hugging Face Spaces · Vercel**
+
+Hybrid retrieval: dense embeddings + BM25 + concept co-occurrence graph expansion. Recall@5 = 1.00 on multi-section academic document QA. Citation-aware generation, query rewriting, conversation memory.
+
+**[→ Live App](https://atlas-rag.vercel.app)** · [Code](https://github.com/sanskarmodi8/Atlas-RAG)
 
 ---
 
-## 🧠 Tech Stack (Focused)
+### Brain Tumor Segmentation — Medical CV
+**PyTorch · MONAI · Swin UNETR · DVC · Streamlit**
 
-**Languages:** Python, Java  
-**ML / DL:** PyTorch, Scikit-learn, OpenCV  
-**GenAI:** Hugging Face, LangChain  
-**Backend:** FastAPI, Docker, Linux  
-**MLOps:** MLflow, DVC  
-**Prototyping:** Streamlit, Gradio  
+Multi-modal MRI segmentation on 40GB BraTS 2024 GLI dataset. 99.94% accuracy (avg loss 0.0121). Reproducible DVC pipeline with train/val/test splits. 3D axial/coronal/sagittal visualization.
+
+**[→ Live App](https://sanskarmodi8-brain-tumor-segmentation-app-v4gu5u.streamlit.app)** · [Code](https://github.com/sanskarmodi8/brain_tumor_segmentation)
 
 ---
 
-## 📊 GitHub Stats & Activity
+### MarketMind — RL Trading System
+**PPO · PyTorch · MLflow · DVC · Streamlit · Yahoo Finance**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sanskarmodi8&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+Bitcoin trading agent achieving **203.8% total return vs 124.1% buy-and-hold baseline**. Custom reward shaping with transaction costs and turnover penalty. Automated weekly retraining via single-command DVC pipeline.
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmodi8&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=9B59B6&hide_border=true)
+**[→ Live App](https://marketmind-sanskarmodi.streamlit.app)** · [Code](https://github.com/sanskarmodi8/MarketMind)
 
 ---
 
-## 🤝 Connect
+### DeepDetect — Deepfake Detection
+**PyTorch · MediaPipe · OpenCV · FastAPI · Gradio · Hugging Face**
 
-- LinkedIn: https://www.linkedin.com/in/sanskar-modi-ba53a2267  
-- GitHub: https://github.com/sanskarmodi8  
-- Email: mailto:sansyprog8@gmail.com  
-- Kaggle: https://www.kaggle.com/sanskarmodi8  
+Video deepfake detection on FaceForensics++ dataset (1,000 videos/subcategory). 93% accuracy / F1. Visual explainability via heatmaps. Gradio UI on Hugging Face Spaces, FastAPI backend for production use.
 
+**[→ Live Demo](https://huggingface.co/spaces/SanskarModi/deepdetect)** · [Code](https://github.com/sanskarmodi8/DeepDetect)
+
+---
+
+## Open Source
+
+**[sktime](https://github.com/sktime/sktime)** — Python's leading time series ML library · 50,000+ users · 3,000+ GitHub stars
+
+Merged 2 production-ready forecasting algorithms into main branch ([PR #7909](https://github.com/sktime/sktime/pull/7909)):
+- Bias-adjusted Box-Cox forecaster
+- DA-RNN (Dual-stage Attention RNN) forecaster
+
+Full code review, CI pipeline, and type-hint compliance.
+
+---
+
+## Active Work
+
+- **MetaGPT-XL** — Production-grade multi-agent system (team of 5, in progress)
+- **Whitebox Hallucination Reduction in LLMs** — Hyperparameter-driven research study (team of 3, in progress)
+
+---
+
+## 🛠 Tech Stack
+
+| Area | Tools |
+|------|-------|
+| LLM & Agents | Google ADK, LangChain, LiteLLM, ReAct Pattern |
+| ML / DL | PyTorch, Scikit-learn, MONAI |
+| Production | FastAPI, Docker, Google Cloud Run, Azure Portal |
+| MLOps | MLflow, DVC |
+| UI | Streamlit, Gradio |
+| Languages | Python, Java 
+
+---
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=sanskarmodi8&show_icons=true&theme=dark&hide_border=true&count_private=true)
