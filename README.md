@@ -10,7 +10,7 @@ AI Engineer focused on building production-grade ML systems — from agentic pip
 
 ## Production Projects
 
-### Leave Policy AI Agent — Live Production Agent
+### 🤖 Leave Policy AI Agent — Live Production Agent
 **Google ADK + ReAct · Google Cloud Run · FastAPI · Snowflake**
 
 Two-path hybrid architecture: deterministic fast-path handles ~70% of queries at sub-100ms with zero LLM cost. Agentic path for complex multi-turn reasoning. PII detection/redaction, prompt sanitization, circuit breaker with automatic fallback, 80%+ test coverage across unit + integration + security attack tests.
@@ -24,7 +24,7 @@ curl -X POST https://leave-policy-agent-641772618787.us-central1.run.app/chat \
 
 ---
 
-### AtlasRAG — Hybrid RAG with Knowledge Graph
+### 📚 AtlasRAG — Hybrid RAG with Knowledge Graph
 **FastAPI · Qdrant · LangChain · Next.js · Hugging Face Spaces · Vercel**
 
 Hybrid retrieval: dense embeddings + BM25 + concept co-occurrence graph expansion. Recall@5 = 1.00 on multi-section academic document QA. Citation-aware generation, query rewriting, conversation memory.
@@ -33,7 +33,7 @@ Hybrid retrieval: dense embeddings + BM25 + concept co-occurrence graph expansio
 
 ---
 
-### Brain Tumor Segmentation — Medical CV
+### 🧠 Brain Tumor Segmentation — Medical CV
 **PyTorch · MONAI · Swin UNETR · DVC · Streamlit**
 
 Multi-modal MRI segmentation on 40GB BraTS 2024 GLI dataset. 99.94% accuracy (avg loss 0.0121). Reproducible DVC pipeline with train/val/test splits. 3D axial/coronal/sagittal visualization.
@@ -42,7 +42,7 @@ Multi-modal MRI segmentation on 40GB BraTS 2024 GLI dataset. 99.94% accuracy (av
 
 ---
 
-### MarketMind — RL Trading System
+### 📈 MarketMind — RL Trading System
 **PPO · PyTorch · MLflow · DVC · Streamlit · Yahoo Finance**
 
 Bitcoin trading agent achieving **203.8% total return vs 124.1% buy-and-hold baseline**. Custom reward shaping with transaction costs and turnover penalty. Automated weekly retraining via single-command DVC pipeline.
@@ -51,7 +51,7 @@ Bitcoin trading agent achieving **203.8% total return vs 124.1% buy-and-hold bas
 
 ---
 
-### DeepDetect — Deepfake Detection
+### 🎭 DeepDetect — Deepfake Detection
 **PyTorch · MediaPipe · OpenCV · FastAPI · Gradio · Hugging Face**
 
 Video deepfake detection on FaceForensics++ dataset (1,000 videos/subcategory). 93% accuracy / F1. Visual explainability via heatmaps. Gradio UI on Hugging Face Spaces, FastAPI backend for production use.
